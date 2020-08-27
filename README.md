@@ -137,12 +137,15 @@ support for some high-quality projects.***
    with the money;
    Independent and open: anyone can publish projects on it to raise funds, as long as they feel
    that their projects are good enough, they can come without any cost;***
-2. ***Fairness and transparency: Because it is decentralized, the fundraising situation is all carried
+2. **Fairness and transparency: Because it is decentralized, the fundraising situation is all carried
    out on the chain, which can be seen by anyone and cannot be faked. Put an end to the tricks of
    centralized financing platforms, where the total amount of funds raised is fraudulent, and the
    questionta of good projects is eaten up by the platform. It is true that everyone can participate
-   and everyone can get rich. ***
+   and everyone can get rich. **
+
+
 ##  Token Economy ##
+
 ***KUN is the general warrant of the Kunchain ecology, it is also a fuel, and it is also a certificate
  for community holders to vote. We follow the model of community autonomy and use the DAO
  model to let KUN play a vital role in community governance. At the same time, holding KUN will 
