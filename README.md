@@ -133,15 +133,15 @@ blockchain revolution***
 ***We hope to provide a more secure decentralized auction platform and provide initial financing
 support for some high-quality projects.***
 
-1. ***Fund security: The currency is in your wallet, so don't worry about the platform running away
+1. Fund security: The currency is in your wallet, so don't worry about the platform running away
    with the money;
    Independent and open: anyone can publish projects on it to raise funds, as long as they feel
-   that their projects are good enough, they can come without any cost;***
-2. **Fairness and transparency: Because it is decentralized, the fundraising situation is all carried
+   that their projects are good enough, they can come without any cost;
+2. Fairness and transparency: Because it is decentralized, the fundraising situation is all carried
    out on the chain, which can be seen by anyone and cannot be faked. Put an end to the tricks of
    centralized financing platforms, where the total amount of funds raised is fraudulent, and the
    questionta of good projects is eaten up by the platform. It is true that everyone can participate
-   and everyone can get rich. **
+   and everyone can get rich. 
 
 
 ##  Token Economy ##
